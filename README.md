@@ -17,4 +17,4 @@ Economic Insights 💡: Provides a look at how currency values were influenced b
 Practical Application 💼: A great resource for understanding forex market trends, useful for traders and analysts.
 
 ### Dataset 📂
-The dataset used in this project contains daily forex exchange rates for February 2020. You can access it  [here]([https://www.kaggle.com/dataset-name](https://www.kaggle.com/datasets/dhruvildave/currency-exchange-rates)).
+The dataset used in this project contains daily forex exchange rates for February 2020. You can access it for kaggle [here is the link:]([https://www.kaggle.com/dataset-name](https://www.kaggle.com/datasets/dhruvildave/currency-exchange-rates)).
