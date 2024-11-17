@@ -1,4 +1,5 @@
-Currency-Insights-2020 🚀📊
+### Currency-Insights-2020 🚀📊
+
 This project dives deep into the forex market using data from February 2020, uncovering insights about currency exchange rates, volatility, and market fluctuations. It utilizes Python and visualization libraries like Plotly and Matplotlib to present the analysis clearly.
 
 Key Highlights:
